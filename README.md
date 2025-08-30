@@ -713,7 +713,7 @@
                 </div>
 
                 <div class="month-card animate-on-scroll">
- <img src="images/taekwondo.jpg" alt="صورة تدريب التايكوندو" class="program-image">
+
                     <h3 class="month-title">🔧 مارس 2025</h3>
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
@@ -788,48 +788,7 @@
                 </p>
             </div>
             
-            <div class="registration-grid">
-                <div class="registration-form animate-on-scroll">
-                    <h3 style="margin-bottom: 2rem; color: var(--primary-color);">صور للأنشطة المنفذة</h3>
-                    <form id="registrationForm">
-                        <div class="form-group">
-<img src="images/24368e02-5a39-49bb-9e17-3d114ed183fb.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/264047f8-bf28-42c1-ab75-88b8e33a6b9e.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/ba7731bf-62b6-4ae3-9227-955950f71646.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/Screenshot 2025-08-30 140832.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/ced49c24-57f5-46f2-8c22-60ead7e2dd5c.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-
-<img src="images/75820b94-5fed-4193-9662-8e3525980782.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/30c809be-6683-4c2d-b11b-b71f91c72d2e.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/b9de25ba-a225-448c-a0ee-918c9c028837.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/8daef6f0-b0e8-4257-9e34-1518dc5af350.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/49ef0b3f-bb65-42ac-9bfb-0f2490b7a7ce.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-<img src="images/33b4c1e5-fb78-4147-8f2a-b5ba93245fc6.jpg" 
-     alt="صورة أنشطة مكتبة إبراء" 
-     class="program-image">
-
-                                                    </div>
- </form>
+          
                         
                                                          
                 <div class="info-card animate-on-scroll">
