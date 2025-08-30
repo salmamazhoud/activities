@@ -708,7 +708,7 @@
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
                         <li class="activity-item">تدريب الفتيات على مهارة التايكوندو</li>
-                        <li class="activity-item">برنامج تنمية الإبداع للأطفال - المبتكر الصغير</li>
+                        <li class="activity-item">برنامج تنمية الإبداع للأطفال </li>
                     </ul>
                 </div>
 
@@ -737,7 +737,7 @@
                     <h3 class="month-title">🔍 مايو 2025</h3>
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
-                        <li class="activity-item">تدريب الفتيات على مهارة التايكوندو</li>
+                        <li class="activity-item">تدريب الفتية على مهارة التايكوندو</li>
                     </ul>
                 </div>
 
@@ -745,7 +745,7 @@
                     <h3 class="month-title">📚 يونيو 2025</h3>
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
-                        <li class="activity-item">تدريب الفتيات على مهارة التايكوندو</li>
+                        <li class="activity-item">تدريب الفتية على مهارة التايكوندو</li>
                         <li class="activity-item">المستكشف الصغير</li>
                         <li class="activity-item">تحفيظ القرآن للفتيات</li>
                         <li class="activity-item">مسابقة حفظ القرآن</li>
@@ -756,11 +756,11 @@
                     <h3 class="month-title">☀️ يوليو 2025</h3>
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
-                        <li class="activity-item">تدريب الفتيات على مهارة التايكوندو</li>
+                        <li class="activity-item">تدريب الفتية على مهارة التايكوندو</li>
                         <li class="activity-item">المستكشف الصغير</li>
                         <li class="activity-item">تحفيظ القرآن للفتيات</li>
                         <li class="activity-item">مسابقة حفظ القرآن</li>
-                        <li class="activity-item">صيف ممتع وفائدة</li>
+                        <li class="activity-item">صيفي متعة وفائدة</li>
                         <li class="activity-item">ورشة تركيب وبرمجة الروبوتات</li>
                     </ul>
                 </div>
@@ -769,8 +769,8 @@
                     <h3 class="month-title">🏖️ أغسطس 2025</h3>
                     <ul class="activity-list">
                         <li class="activity-item">محو الأمية وتعليم كبار السن</li>
-                        <li class="activity-item">تدريب الفتيات على مهارة التايكوندو</li>
-                        <li class="activity-item">صيف ممتع وفائدة</li>
+                        <li class="activity-item">تدريب الفتية على مهارة التايكوندو</li>
+                        <li class="activity-item">صيفي متعة وفائدة</li>
                     </ul>
                 </div>
             </div>
@@ -826,11 +826,11 @@
                             مكتبة إبراء العامة تخدم أكثر من 1000 مستفيد سنوياً من خلال برامجها المتنوعة، 
                             وقد ساهمت في محو أمية أكثر من 200 شخص من كبار السن خلال السنوات الماضية.
                         </p>
-                    </div>
+                   
                 </div>
             </div>
         </div>
-    </section>
+    
 
     <!-- Footer -->
     <footer class="footer">
@@ -855,7 +855,7 @@
                     <ul class="footer-links">
                         <li><a href="#programs">البرامج الأساسية</a></li>
                         <li><a href="#calendar">التقويم السنوي</a></li>
-                        <li><a href="#registration">التسجيل</a></li>
+                    
                         <li><a href="#about">عن المكتبة</a></li>
                     </ul>
                 </div>
@@ -864,9 +864,16 @@
                     <h4>تواصل معنا</h4>
                     <ul class="footer-links">
                         <li>📍 إبراء، سلطنة عُمان</li>
-                        <li>📞+968 هاتف:  92346111</li>
+                        <li>📞 هاتف:  92346111</li>
                         <li>📧 بريد إلكتروني: ibra-public-library18@hotmail.com</li>
-                        <li>🌐 الإنستجرام: https://www.instagram.com/ibra_public_library_2018?igsh=MTg0NDZmY2trMng2Yg==</li>
+                        <li>🌐 الإنستجرام: 
+  <a href="https://www.instagram.com/ibra_public_library_2018?igsh=MTg0NDZmY2trMng2Yg==" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     اضغط هنا
+  </a>
+</li>
+
                     </ul>
                 </div>
             </div>
